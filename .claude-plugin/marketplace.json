@@ -1,0 +1,19 @@
+{
+  "name": "academic-research-toolkit",
+  "description": "Research papers, citations, and feeds from one workflow: arXiv search, an LLM Wiki knowledge base, a research-paper tool, and grounded citations with a source for every claim.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Research papers, citations, and feeds from one workflow: arXiv search, an LLM Wiki knowledge base, a research-paper tool, and grounded citations with a source for every claim.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "academic-research-toolkit",
+      "source": "./plugins/academic-research-toolkit",
+      "description": "Research papers, citations, and feeds from one workflow: arXiv search, an LLM Wiki knowledge base, a research-paper tool, and grounded citations with a source for every claim."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "academic-research-toolkit",
+  "displayName": "Academic Research Toolkit",
+  "version": "1.0.0",
+  "description": "Research papers, citations, and feeds from one workflow: arXiv search, an LLM Wiki knowledge base, a research-paper tool, and grounded citations with a source for every claim.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "academic research toolkit"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
